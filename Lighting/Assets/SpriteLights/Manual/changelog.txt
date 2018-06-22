@@ -1,0 +1,24 @@
+v2.4
+-Added scaling option for runway lights.
+
+v2.3
+-Much faster mesh generation.
+-Faster light shaders.
+
+v2.2
+-Fixed a bug which caused incorrect city light generation.
+-Updated the manual to include the asset generation function.
+
+v2.1
+-Added a shader to be used for city lights or other single color, single brightness omni directional lights. It uses a smaller mesh size and is faster to render.
+-Generated city lights are not overwritten if they already exist.
+-City light generation is faster and uses less data.
+
+
+v2.0
+-Supports 32 bit mesh index buffers, enabling up to 1.4 billion lights in one mesh.
+-Requires Unity 2017.3
+-Updated manual.
+
+v1.0
+-First release.

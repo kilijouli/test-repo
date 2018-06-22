@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SpriteLights/Scenes/SpriteLights.unity
+  isLoaded: 1
+  isActive: 1
